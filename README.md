@@ -130,4 +130,4 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsinlegend&hide=javascript,html&theme=merko)](https://github.com/hadesinlegend/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsinlegend&hide=javascript,html&theme=light)](https://github.com/hadesinlegend/github-readme-stats)
